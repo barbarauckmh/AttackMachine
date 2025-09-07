@@ -897,3 +897,4 @@ CLASSIC_ROUTES_MODULES_USING = [
     ['bridge_layerswap', 'bridge_native'],
     ['swap_mute', 'swap_izumi', 'mint_domain_ens', None],
 ]
+
